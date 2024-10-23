@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KB14533_IgbTabs_SelectAsync", "KB14533_IgbTabs_SelectAsync.csproj", "{35C93225-1838-428F-854A-31C202ACADCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C93225-1838-428F-854A-31C202ACADCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C93225-1838-428F-854A-31C202ACADCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C93225-1838-428F-854A-31C202ACADCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C93225-1838-428F-854A-31C202ACADCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A379E15-F472-4130-8606-58D8145479D8}
+	EndGlobalSection
+EndGlobal
